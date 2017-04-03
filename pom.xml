@@ -36,6 +36,15 @@
 			<profile>full-ha</profile>
 		  </profiles>
 		</domain>
+		 <domain>
+		  <server-groups>
+			<server-group>ServerGrp-1</server-group>
+		  </server-groups>
+		  <profiles>
+			<profile>full-ha</profile>
+		  </profiles>
+		 </domain>
+		 
                <!-- <jbossHome>/root/jboss-eap-6.4</jbossHome>
                 <fileName>/root/var/lib/go-agent/pipelines/Sample/target/Trailpro-1.0.war</fileName>
 -->
