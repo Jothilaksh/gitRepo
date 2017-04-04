@@ -30,10 +30,10 @@
                 <password>Jothi@123</password>
 		<domain>
 		  <server-groups>
-			<server-group>${Server_Group}</server-group>
+			<server-group>ServerGrp-1</server-group>
 		  </server-groups>
 		  <profiles>
-			<profile>${Profile}</profile>
+			<profile>full-ha</profile>
 		  </profiles>
 		 </domain>
                 <jbossHome>/root/jboss-eap-6.4</jbossHome>
