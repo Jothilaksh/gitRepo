@@ -27,7 +27,7 @@
         <version>7.9.Final</version>
         <configuration>
                <hostname>${Hostname}</hostname>
-               <port>19999</port>
+               <port>9999</port>
                <username>${Uname}</username>
                <password>${Passwd}</password>
                <domain>
