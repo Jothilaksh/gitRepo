@@ -22,9 +22,9 @@
        </configuration>
       </plugin>
       <plugin>
-       <groupId>org.codehaus.mojo</groupId>
-       <artifactId>jboss-maven-plugin</artifactId>
-       <version>1.5.0</version>
+       <groupId>org.jboss.as.plugins</groupId>
+        <artifactId>jboss-as-maven-plugin</artifactId>
+        <version>7.9.Final</version>
         <configuration>
                <hostname>${Hostname}</hostname>
                <port>${Port}</port>
